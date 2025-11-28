@@ -1,0 +1,5 @@
+com\cuit\house\result\ResultMsg.class
+com\cuit\house\utils\BeanHelper.class
+com\cuit\house\utils\HashUtils.class
+com\cuit\house\pojo\User.class
+com\cuit\house\utils\UserHelper.class

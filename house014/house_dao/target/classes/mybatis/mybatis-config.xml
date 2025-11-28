@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <settings>
+        <!-- 配置关闭缓存  -->
+        <setting name="cacheEnabled" value="false"/>
+        <!--打开驼峰命名-->
+        <setting name="mapUnderscoreToCamelCase" value="true"/>
+        <!--jdbc自动生成主键-->
+        <setting name="useGeneratedKeys" value="true"/>
+        <!-- 事务超时时间 -->
+        <setting name="defaultStatementTimeout" value="600"/>
+
+        <setting name="logImpl" value="STDOUT_LOGGING"></setting>
+    </settings>
+
+<mappers>
+    <mapper resource="mapper/user.xml"></mapper>
+    <mapper resource="mapper/house.xml"></mapper>
+    <mapper resource="mapper/agency.xml"></mapper>
+</mappers>
+</configuration>

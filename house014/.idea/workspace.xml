@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70892a3e-246e-4579-8b23-7ba45bb4e6a8" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="31DImTLjShp3Oefhz8Eku95MJuu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
+    "jdk.selected.JAVA_MODULE": "1.8 (2)",
+    "last_opened_file_path": "E:/School/maventest/house014",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "b7d8e6d77af05d10fe9b50407b09cc9c",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\School\maventest\house014\house_web\src\main\resources\templates\house" />
+      <recent name="E:\School\maventest\house014\house_common\src\main\java\com\cuit\house\pojo" />
+      <recent name="E:\School\maventest\house014\house_web\src\main\resources\templates\user\agent" />
+      <recent name="E:\School\maventest\house014\house_common\src\main\java\com\cuit\house\page" />
+      <recent name="E:\School\maventest\house014\house_common\src\main\java\com\cuit\house\utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\School\maventest\house014\house_web\src\main\resources\templates" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.cuit.house" />
+      <recent name="com.cuit.house.config" />
+      <recent name="com.cuit.house.service" />
+      <recent name="com.cuit.house.mapper" />
+      <recent name="com.cuit.house.pojo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.HouseApplication (1)">
+    <configuration name="JedisDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cuit.house.JedisDemo" />
+      <module name="house_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cuit.house.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="house_web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cuit.house.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cuit.house" />
+      <option name="MAIN_CLASS_NAME" value="com.cuit.house.AuthTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HouseApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="house_web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cuit.house.HouseApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cuit.house.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HouseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="house014" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cuit.house.HouseApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cuit.house.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.HouseApplication (1)" />
+        <item itemvalue="JUnit.AuthTest.test" />
+        <item itemvalue="Spring Boot.HouseApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="70892a3e-246e-4579-8b23-7ba45bb4e6a8" name="变更" comment="" />
+      <created>1755052379427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755052379427</updated>
+      <workItem from="1755052380552" duration="16330000" />
+      <workItem from="1755076777382" duration="869000" />
+      <workItem from="1755131362054" duration="152000" />
+      <workItem from="1755131683272" duration="22678000" />
+      <workItem from="1755217827681" duration="15423000" />
+      <workItem from="1755304250167" duration="643000" />
+      <workItem from="1755565360411" duration="7360000" />
+      <workItem from="1755649636921" duration="341000" />
+      <workItem from="1755787192048" duration="729000" />
+      <workItem from="1755908936036" duration="603000" />
+      <workItem from="1755917961897" duration="312000" />
+      <workItem from="1758594429860" duration="2202000" />
+      <workItem from="1758781456887" duration="438000" />
+      <workItem from="1758781911129" duration="3152000" />
+      <workItem from="1760324658152" duration="634000" />
+      <workItem from="1760343145193" duration="18000" />
+      <workItem from="1760405672663" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

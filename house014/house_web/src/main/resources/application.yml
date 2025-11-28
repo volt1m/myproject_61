@@ -1,0 +1,51 @@
+  spring:
+    servlet:
+      multipart:
+        max-file-size: -1
+        max-request-size: -1
+    druid:
+      driverClassName: com.mysql.cj.jdbc.Driver
+      url: jdbc:mysql://localhost:3306/houses
+      username: root
+      password: root
+      maxActive: 30 #最大连接数
+      minIdle: 5   #最小连接数
+      maxWait: 10000 #获取连接最大等待时间
+      validationQuery: SELECT 'x'  #解决mysql8小时问题.mysql会主动超过8小时会断开连接
+    freemarker:
+      charset: UTF-8
+      content-type: text/html;charset=utf-8
+      expose-request-attributes: true #设定所有模板都有request域
+      expose-session-attributes: true
+      expose-spring-macro-helpers: true # requestContext域
+      allow-session-override: true
+      suffix: .ftl
+      settings:
+        datetime_format: yyyy-MM-dd HH:mm:ss
+        default_encoding: utf-8
+        auto_import: common/common.ftl as common
+    mail:
+      host: smtp.163.com
+      username: xiaokainiucs@163.com
+      password: qwk13882183772
+      properties:
+        mail:
+          smtp:
+            auth: true
+            starttls:
+              enable: true
+              required: true
+  mybatis:
+    config-location: classpath:/mybatis/mybatis-config.xml
+
+    #图片服务器的真实地址
+  file:
+    path: E:/img
+    #访问图片服务器逻辑前缀
+    imgprefix: http://127.0.0.1:81/pic
+    #邮件内容服务器地址
+  domain:
+    name: 127.0.0.1:80
+
+  server:
+    port: 80
